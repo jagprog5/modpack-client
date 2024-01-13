@@ -21,3 +21,7 @@ ComplementaryShaders + Optifine works well with this pack (install separately).
 
 Do not update the mods, as this will lead to incompatible mod versions with the
 server. This repo may be updated and if it is then the server mods will be kept in sync.
+
+# Mobile
+
+Note that this modpack is compatible using the [Pojav launcher](https://github.com/PojavLauncherTeam/PojavLauncher), though the setup is pretty technical.

@@ -1,9 +1,5 @@
 The use of the chicken chunks mod is for allowing command blocks to run all the time.
 There is a chunk far away which is emptied, and that chunk contains command blocks and a spot loader (referred to as the "command chunk").
-/tp 100000 100 100000
-(remove in y slices)
-/fill 100000 100 100000 100015 120 100015 air
-(remove any lava or water flow. place a spot loader)
 
 Note that these alternative solutions don't work:
  - Datapacks aren't available in version 1.12.2.
@@ -15,16 +11,3 @@ This intent is reflected in the cfg.
  - Operators' chunks stay loaded forever even if they are not online (needed for the command block chunk);
    in contrast, if non ops go offline then their chunks will unload.
  - For fair play, non ops can't use the chunk viewer.
-
-Here is the cmd block setup to run a mc function every 10 seconds:
-
-(run once manually)
-/scoreboard objectives add buf_apply dummy
-(repeating, unconditional, always active, facing towards next command block)
-/scoreboard players add dummy_player_username buf_timer 1
-(chain, unconditional, always active, facing towards next command block)
-/scoreboard players test dummy_player_username buf_timer 200 2147483647
-(chain, conditional, always active, facing towards next command block)
-/scoreboard players set dummy_player_username buf_timer 0
-(chain, conditional, always active)
-< call the function here >

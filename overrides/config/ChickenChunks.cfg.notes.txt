@@ -16,20 +16,15 @@ This intent is reflected in the cfg.
    in contrast, if non ops go offline then their chunks will unload.
  - For fair play, non ops can't use the chunk viewer.
 
-Note the following command blocks which are present on my server (global bufs):
+Here is the cmd block setup to run a mc function every 10 seconds:
 
-Run once manually: /scoreboard objectives add buf_timer dummy
-
-(none require redstone, set to always active)
-A unconditional repeating command block:
+(run once manually)
+/scoreboard objectives add buf_apply dummy
+(repeating, unconditional, always active, facing towards next command block)
 /scoreboard players add dummy_player_username buf_timer 1
-That repeating command block points to the following chain command blocks. They are all conditional and all point in the same direction.
-
+(chain, unconditional, always active, facing towards next command block)
 /scoreboard players test dummy_player_username buf_timer 200 2147483647
+(chain, conditional, always active, facing towards next command block)
 /scoreboard players set dummy_player_username buf_timer 0
-/effect @e[type=player] minecraft:haste 11 3 true
-/effect @e[type=villager_golem] minecraft:regeneration 11 1 true
-/effect @e[type=villager_golem] minecraft:speed 11 3 true
-... other buf here
-
-This will give a 11 second buf, applied every 10 seconds
+(chain, conditional, always active)
+< call the function here >

@@ -1,0 +1,13 @@
+gamma:0.70422536
+renderDistance:16
+maxFps:120
+ao:1
+resourcePacks:["Lum.1.12.2.zip","NoMorePumpkinBlur-1.11-1.12.2.zip","Unity-1.12.X-Dark-0.6.2.zip","Unity-1.6.5-1.12-YABBandaid.zip","Aether b1.7.3 Textures"]
+fullscreen:true
+enableVsync:true
+autoJump:false
+tutorialStep:none
+soundCategory_music:0.0
+soundCategory_ambient:0.2535211
+soundCategory_ds_footsteps:0.2535211
+soundCategory_ds_biome:0.2535211

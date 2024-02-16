@@ -1,2 +1,1 @@
-shaderPack=MakeUp-UltraFast-8.9b.zip
-renderResMul=2.0
+renderResMul=1.6666666

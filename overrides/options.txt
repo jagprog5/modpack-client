@@ -10,4 +10,4 @@ tutorialStep:none
 soundCategory_music:0.0
 soundCategory_ambient:0.2535211
 soundCategory_ds_footsteps:0.2535211
-soundCategory_ds_biome:0.2535211
+soundCategory_ds_biome:0.0

@@ -2,7 +2,7 @@ gamma:0.70422536
 renderDistance:16
 maxFps:120
 ao:1
-resourcePacks:["Lum.1.12.2.zip","NoMorePumpkinBlur-1.11-1.12.2.zip","Unity-1.12.X-Dark-0.6.2.zip","Unity-1.6.5-1.12-YABBandaid.zip"]
+resourcePacks:["Lum.1.12.2.zip","NoMorePumpkinBlur-1.11-1.12.2.zip","Unity-1.6.5-1.12-YABBandaid.zip","Default-Dark-Mode-1.12-2023.6.0.zip"]
 fullscreen:true
 enableVsync:true
 autoJump:false

@@ -1,0 +1,357 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "ShrineSmallAirJAGLoot",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 3,
+      "max": 6,
+      "item": {
+        "id": "aether_legacy:ambrosium_shard",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.290178656578064,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:glowstone_dust",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "aether_legacy:blue_berry",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "aether_legacy:enchanted_blueberry",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "aether_legacy:agility_cape",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:ring_lightning_melee",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:ring_storm",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_move_speed",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:amulet_arcane_defence",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:amulet_potential",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:amulet_glide",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "aether_legacy:iron_bubble",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_hat_lightning",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_robe_lightning",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_leggings_lightning",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_boots_lightning",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:ring_hammer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:ring_stormcloud",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 137,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 97,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 98,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 138,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 129,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 155,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 63,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 61,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 178,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 62,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 138,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 137,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 97,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 98,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 64,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 60,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

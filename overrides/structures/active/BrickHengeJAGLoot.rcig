@@ -1,0 +1,210 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "BrickHengeJAGLoot",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "ebwizardry:spark_bomb",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "ebwizardry:poison_bomb",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "ebwizardry:firebomb",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "ebwizardry:smoke_bomb",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 6,
+      "max": 19,
+      "item": {
+        "id": "ebwizardry:crystal_shard",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "ebwizardry:magic_crystal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:gold_nugget",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_earth"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_fire"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_healing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_ice"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_lightning"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_necromancy"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:gameplay/imbuement_altar/ruined_spell_book_sorcery"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

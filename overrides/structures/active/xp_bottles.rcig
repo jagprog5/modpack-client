@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "xp_bottles",
+  "items": [
+    {
+      "weight": 0.11158588528633118,
+      "min": 2,
+      "max": 10,
+      "item": {
+        "id": "minecraft:experience_bottle",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

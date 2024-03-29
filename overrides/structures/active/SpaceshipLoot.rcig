@@ -1,0 +1,226 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "SpaceshipLoot",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:end_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 2,
+      "max": 8,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 13,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 2,
+      "max": 7,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 2,
+      "max": 4,
+      "item": {
+        "id": "minecraft:ender_pearl",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 3,
+      "max": 12,
+      "item": {
+        "id": "minecraft:chorus_fruit",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_hat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_robe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 83,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 107,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 105,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_black_hole",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "quark:danger_sight"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:amulet_wither_immunity",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "waystones:return_scroll",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_silk_touch",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:crystal_silver_plating",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:ethereal_crystalweave",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:resplendent_thread",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

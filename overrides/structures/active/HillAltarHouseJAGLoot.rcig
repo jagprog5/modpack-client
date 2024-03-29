@@ -1,0 +1,391 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "HillAltarHouseJAGLoot",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:stone_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 2,
+      "max": 8,
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 2,
+      "max": 7,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_hat_necromancy",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_robe_necromancy",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_leggings_necromancy",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_boots_necromancy",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 112,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 69,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 99,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 130,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 28,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 30,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 31,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 175,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 29,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:spell_book",
+        "damage": 148,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 70
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 71
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:poison"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:weakness"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_undead_helmets",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:amulet_wither_immunity",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_experience_tome",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_hunger_casting",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:charm_minion_health",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

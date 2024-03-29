@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "PyromancerArmour",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_hat_fire",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_robe_fire",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_leggings_fire",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:wizard_boots_fire",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

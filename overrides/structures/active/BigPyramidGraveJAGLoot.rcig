@@ -1,0 +1,345 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "BigPyramidGraveJAGLoot",
+  "items": [
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 8,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 10,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 13,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 14,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "biomesoplenty:blue_dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "biomesoplenty:white_dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "quark:root_dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "quark:root_dye",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "quark:root_dye",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 9,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 12,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "biomesoplenty:green_dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "biomesoplenty:brown_dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 4,
+      "max": 4,
+      "item": {
+        "id": "biomesoplenty:black_dye",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.013752810657024384,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:magic_crystal",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.028885602951049805,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:magic_crystal",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.013752810657024384,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ebwizardry:magic_crystal",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 4,
+      "max": 9,
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 4,
+      "max": 13,
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.013752810657024384,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.009064221754670143,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_apple",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:subsets/rare_artefacts"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 7,
+      "max": 24,
+      "item": {
+        "id": "quark:gravisand",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "ebwizardry:subsets/wizard_armour"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

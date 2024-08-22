@@ -94,7 +94,6 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/wolf-armor-and-storage">Wolf Armor and Storage Legacy (by saturniidae)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero's Minimap (by xaero96)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map (by xaero96)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge">YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode">Default Dark Mode (by nebulr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/lum-backport">Lum (Backport) (by fonnymunkey)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack">No More Pumpkin Blur (by Mystery2099)</a></li>

@@ -1,0 +1,42 @@
+# https://trstringer.com/github-actions-create-release-upload-artifacts/
+
+on:
+  push:
+    branches:
+      - main
+      
+jobs:
+  build_release:
+    name: build_release
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: build
+        run: zip -r profile.zip overrides manifest.json
+      - name: version
+        run: echo "version=$(./scripts/get_manifest_version.py)" >> $GITHUB_OUTPUT
+        id: version
+      - name: release
+        # enabled Workflow write permission
+        uses: actions/create-release@v1.1.4
+        id: create_release
+        with:
+          draft: false
+          prerelease: false
+          tag_name: ${{ steps.version.outputs.version }}
+          release_name: Manifest version ${{ steps.version.outputs.version }}
+          body_path: CHANGELOG.md
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: upload artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./profile.zip
+          asset_name: profile.zip
+          asset_content_type: application/zip

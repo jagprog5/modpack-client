@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# used by the CI
 import argparse, os, json
 default_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", 'manifest.json')
 parser = argparse.ArgumentParser(description="Gets the manifest version.")

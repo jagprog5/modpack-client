@@ -32,7 +32,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/custom-main-menu">Custom Main Menu (by Lumien231)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dtbop">Dynamic Trees - Biomes O' Plenty (by cadaverous_queen)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings">Dynamic Surroundings (by OreCruncher)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-the-aether-legacy">Dynamic Trees - The Aether Legacy (by MaxHyper)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-the-aether">Dynamic Trees - The Aether (by MaxHyper)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-the-twilight-forest">Dynamic Trees - The Twilight Forest (by MaxHyper)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamictrees">Dynamic Trees (by MaxHyper)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry">Electroblob's Wizardry (by Electroblob)</a></li>
@@ -62,6 +62,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks (by YaLTeR)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs">Mowzie's Mobs (by bobmowzie)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/name-pain">Name Pain (by naqaden)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature's Compass (by Chaosyr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/netherex">NetherEx (by LogicTechCorp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/netherportalfix">NetherPortalFix (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/open-glider">Open Glider (by gr8pefish)</a></li>
@@ -69,11 +70,12 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/parry">Shield Parry (by Drullkus)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli">Patchouli (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/performant">Performant (by someaddon)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/phosphor-forge">Phosphor (Forge) (by jellysquid3_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/phosphor-forge">Phosphor (Forge) (by JellySquid)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/placebo">Placebo (by Shadows_of_Fire)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/railcraft">Railcraft (by Covert_Jaguar)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/randompatches-forge">RandomPatches (Forge) (by TheRandomLabs)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/reach-fix">Reach Fix (by meldexun)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/recurrent-complex">Recurrent Complex (by Ivorius)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/resource-loader">Resource Loader (by Lumien231)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/seed-protect">Seed Protect (by vsngarcia)</a></li>
@@ -82,6 +84,8 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/stygian-end-biome-expansion">Stygian End: Biome Expansion (by super_fluke)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/surge">Surge (by DarkhaxDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass">SwingThroughGrass (by exidex)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/texfix">TexFix (by Speiger)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/the-disenchanter-mod">Disenchanter (The Disenchanter Mod) (by impelon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tidychunk">TidyChunk (by OreCruncher)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod">Torch Slabs Mod (by EndlesNights)</a></li>

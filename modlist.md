@@ -1,4 +1,4 @@
-<ul>
+﻿<ul>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/aether">The Aether (by TheAetherTeam)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ai-improvements">AI Improvements (by QueenOfMissiles)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/anvil-patch-lawful">Anvil Patch - lawful (by Lumber_Wizard)</a></li>
@@ -88,6 +88,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-disenchanter-mod">Disenchanter (The Disenchanter Mod) (by impelon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tidychunk">TidyChunk (by OreCruncher)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/tool-belt">Tool Belt (by gigaherz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod">Torch Slabs Mod (by EndlesNights)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/unloader">Unloader (by Unnoen)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/uppers">Uppers (by vadis365)</a></li>

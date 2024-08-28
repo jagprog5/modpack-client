@@ -1,2 +1,2 @@
- * Fix: prevent cascading worldgen
- * Added release CI
+ * Remove misc books from recurrent complex generation
+ * Add tool-belt

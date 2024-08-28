@@ -7,8 +7,6 @@ It contains [these mods](./modlist.md), with a focus on simplicity and explorati
 2. Download the profile [here](https://github.com/jagprog5/modpack-client/releases/latest/download/profile.zip).
 3. Import the profile into CurseForge [like shown](https://www.youtube.com/watch?v=yPyAjmrpmpU).
 
-<sup>\*or generate it yourself with: `zip -r profile.zip overrides manifest.json`</sup>
-
 # Shaders
 
 This can be skipped if you don't want shaders. OptiFine needs to be downloaded separately.

@@ -1,0 +1,537 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "travel_loot_group_id",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:torch",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:paper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.9243392944335938,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:gold_nugget",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:stick",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:brown_mushroom",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:red_mushroom",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 4,
+      "max": 16,
+      "item": {
+        "id": "minecraft:wheat_seeds",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 2,
+      "max": 18,
+      "item": {
+        "id": "quark:arrow_ender",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 16,
+      "max": 16,
+      "item": {
+        "id": "ebwizardry:scroll",
+        "damage": 142,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 7,
+      "max": 10,
+      "item": {
+        "id": "ebwizardry:scroll",
+        "damage": 43,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "quark:arrow_explosive",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "waystones:return_scroll",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.1894346475601196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.9243392944335938,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:string",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:arrow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:coal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 10
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 3
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 4
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 5
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 6
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "improvedbackpacks:backpack",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Color": {
+              "nbtType": "int",
+              "nbt": 7
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "disenchanter:experience_jar",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ExperienceCapacity": {
+              "nbtType": "int",
+              "nbt": 1024
+            },
+            "StoredExperience": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Overload": {
+              "nbtType": "byte",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "toolbelt:pouch",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "ebwizardry:scroll",
+        "damage": 40,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "ebwizardry:scroll",
+        "damage": 41,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "ebwizardry:scroll",
+        "damage": 133,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "toolbelt:belt",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:leather_boots",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 4
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 34
+                    }
+                  }
+                }
+              ]
+            },
+            "display": {
+              "nbtType": "compound",
+              "nbt": {
+                "color": {
+                  "nbtType": "int",
+                  "nbt": 16383998
+                },
+                "Name": {
+                  "nbtType": "string",
+                  "nbt": "Hopper\u0027s Boots"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wooden_axe",
+        "damage": 10000,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 10
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 19
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 25
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 16
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 51
+                    }
+                  }
+                }
+              ]
+            },
+            "display": {
+              "nbtType": "compound",
+              "nbt": {
+                "Lore": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "Annihilates itself after one use"
+                    }
+                  ]
+                },
+                "Name": {
+                  "nbtType": "string",
+                  "nbt": "Lesser Boom Axe"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

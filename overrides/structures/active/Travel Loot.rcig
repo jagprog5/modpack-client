@@ -443,20 +443,54 @@
               "nbt": {
                 "color": {
                   "nbtType": "int",
-                  "nbt": 16383998
+                  "nbt": 16777215
                 },
                 "Name": {
                   "nbtType": "string",
-                  "nbt": "Hopper\u0027s Boots"
+                  "nbt": "Traveling Boots"
                 }
               }
+            },
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "int",
+                      "nbt": 983294
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "int",
+                      "nbt": 245670800
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": 0.01
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "feet"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.movementSpeed"
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.movementSpeed"
+                    }
+                  }
+                }
+              ]
             }
           }
         }
       }
     },
     {
-      "weight": 0.0739658921957016,
+      "weight": 0.08515378087759018,
       "min": 1,
       "max": 1,
       "item": {
@@ -474,11 +508,11 @@
                   "nbt": {
                     "lvl": {
                       "nbtType": "int",
-                      "nbt": 10
+                      "nbt": 50
                     },
                     "id": {
                       "nbtType": "int",
-                      "nbt": 19
+                      "nbt": 16
                     }
                   }
                 },
@@ -487,11 +521,11 @@
                   "nbt": {
                     "lvl": {
                       "nbtType": "int",
-                      "nbt": 25
+                      "nbt": 5
                     },
                     "id": {
                       "nbtType": "int",
-                      "nbt": 16
+                      "nbt": 19
                     }
                   }
                 },
@@ -524,9 +558,47 @@
                 },
                 "Name": {
                   "nbtType": "string",
-                  "nbt": "Lesser Boom Axe"
+                  "nbt": "Splintering Axe"
                 }
               }
+            },
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "int",
+                      "nbt": -871380948
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "int",
+                      "nbt": -590699294
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": -3.95
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    }
+                  }
+                }
+              ]
             }
           }
         }

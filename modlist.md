@@ -61,6 +61,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment">Mob Dismemberment (by iChun)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks (by YaLTeR)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs">Mowzie's Mobs (by bobmowzie)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mutant-beasts">Mutant Beasts (by Chumbanotz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/name-pain">Name Pain (by naqaden)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature's Compass (by Chaosyr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/netherex">NetherEx (by LogicTechCorp)</a></li>

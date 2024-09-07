@@ -9,7 +9,7 @@
     ]
   },
   "manifestType": "minecraftModpack",
-  "manifestVersion": 9,
+  "manifestVersion": 10,
   "name": "John's 1.12.2",
   "author": "",
   "files": [
@@ -425,7 +425,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 5394803,
+      "fileID": 5658210,
       "required": true
     },
     {
@@ -446,6 +446,11 @@
     {
       "projectID": 321792,
       "fileID": 5225456,
+      "required": true
+    },
+    {
+      "projectID": 336272,
+      "fileID": 3225395,
       "required": true
     },
     {
@@ -485,7 +490,7 @@
     },
     {
       "projectID": 373157,
-      "fileID": 5484862,
+      "fileID": 5688058,
       "required": true
     },
     {

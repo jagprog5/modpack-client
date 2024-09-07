@@ -5,7 +5,7 @@ It contains [these mods](./modlist.md), with a focus on simplicity and explorati
 
 1. Download CurseForge [here](https://www.curseforge.com/download/app).
 2. Download the profile [here](https://github.com/jagprog5/modpack-client/releases/latest/download/profile.zip).
-3. Import the profile into CurseForge [like shown](https://www.youtube.com/watch?v=yPyAjmrpmpU).
+3. Import the profile into CurseForge.
 
 # Shaders
 

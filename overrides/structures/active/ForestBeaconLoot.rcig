@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "forest_beacon_loot_group_id",
+  "items": [
+    {
+      "weight": 0.005751589313149452,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wooden_axe",
+        "damage": 10000,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 50
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 16
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 5
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 19
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 51
+                    }
+                  }
+                }
+              ]
+            },
+            "display": {
+              "nbtType": "compound",
+              "nbt": {
+                "Lore": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "Annihilates itself after one use"
+                    }
+                  ]
+                },
+                "Name": {
+                  "nbtType": "string",
+                  "nbt": "Splintering Axe"
+                }
+              }
+            },
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "int",
+                      "nbt": -871380948
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "int",
+                      "nbt": -590699294
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": -3.95
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "reccomplex:inventory_generation_single_tag",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "itemCollectionKey": {
+              "nbtType": "string",
+              "nbt": "AbandonedBurnable"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,5 +1,7 @@
 # John's 1.12.2
 
+[Structure Showcase](https://youtu.be/tyVnWifNTvY)🔗
+
 This is a CurseForge profile for Minecraft 1.12.2.  
 It contains [these mods](./modlist.md), with a focus on simplicity and exploration.
 

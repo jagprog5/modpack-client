@@ -1,3 +1,2 @@
- * Added more structures
- * Tweaked ebwizardry (books are consumed)
- * Minor edit shader default settings
+ * Tweaked some structures (fixes stability)
+ * Fixed crash with interaction of Mo' Bends, WAASL, Twilight Forest

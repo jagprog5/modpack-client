@@ -53,6 +53,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ivtoolkit">IvToolkit (by Ivorius)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Just Enough Items (JEI) (by mezz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/kleeslabs">KleeSlabs (by BlayTheNinth)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/let-me-despawn">Let Me Despawn (by frikinjay)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/libraryex">LibraryEx (by LogicTechCorp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/llibrary">LLibrary (by MCModDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility">Mixin 0.7-0.8 Compatibility (by NotStirred)</a></li>
@@ -62,7 +63,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks (by YaLTeR)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs">Mowzie's Mobs (by bobmowzie)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mutant-beasts">Mutant Beasts (by Chumbanotz)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/name-pain">Name Pain (by naqaden)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/namepain">Name Pain (by naqaden)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature's Compass (by Chaosyr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/netherex">NetherEx (by LogicTechCorp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/netherportalfix">NetherPortalFix (by BlayTheNinth)</a></li>

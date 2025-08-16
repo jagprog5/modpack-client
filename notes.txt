@@ -1,0 +1,8 @@
+/give @p minecraft:wooden_axe 1 10000 {AttributeModifiers:[{Slot:"mainhand",AttributeName:generic.attackSpeed,Name:generic.attackSpeed,Amount:-3.95,Operation:0,UUIDLeast:-590699294,UUIDMost:-871380948}],display:{Name:"Lesser Boom Axe",Lore:["Annihilates itself after one use"]},ench:[{id:16,lvl:50},{id:19,lvl:5},{id:51,lvl:1}]}
+
+
+/give @a leather_boots 1 0 {display:{color:16777215,Name:"Traveller's Boots"},ench:[{lvl:4,id:2},{lvl:3,id:34}],AttributeModifiers:[{AttributeName:generic.movementSpeed,Name:generic.movementSpeed,Amount:0.01,Slot:feet,UUIDLeast:245670800,UUIDMost:983294}]}
+
+
+1. commit this
+2. update modpack-server

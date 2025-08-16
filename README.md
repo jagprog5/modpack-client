@@ -38,3 +38,12 @@ server. This repo may be updated and if it is then the server mods will be kept 
 ## Troubleshooting
 
 If the game starts with a blank screen then delete `options.txt` and restart; this issues was seen on a MacBook.
+
+# Development
+
+For better diff viewing:
+
+```bash
+git config diff.nbt.textconv "python3 scripts/nbt_textconv.py"
+git config diff.json.textconv "python3 -c 'import sys,json;json.dump(json.load(open(sys.argv[1])),sys.stdout,indent=2);print()'"
+```

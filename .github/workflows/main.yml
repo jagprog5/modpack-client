@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      
 jobs:
   build_release:
     name: build_release
@@ -17,7 +16,7 @@ jobs:
       - name: build
         run: zip -r profile.zip overrides manifest.json
       - name: version
-        run: echo "version=$(./scripts/get_manifest_version.py)" >> $GITHUB_OUTPUT
+        run: echo 'version=$(python3 -c "import json;print(json.load(open(\"manifest.json\"))[\"manifestVersion\"])")' >> $GITHUB_OUTPUT
         id: version
       - name: release
         # enabled Workflow write permission

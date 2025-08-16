@@ -1,0 +1,2 @@
+*.nbt diff=nbt
+*.json diff=json

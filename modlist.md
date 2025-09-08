@@ -94,6 +94,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod">Torch Slabs Mod (by EndlesNights)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/unloader">Unloader (by Unnoen)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/uppers">Uppers (by vadis365)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/vanilla-anvil-repair">Vanilla Anvil Repair (by eksekk)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/vanillafix">VanillaFix (by Runemoro)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/visuals">Visuals (by Zeith)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/waystones">Waystones (by BlayTheNinth)</a></li>

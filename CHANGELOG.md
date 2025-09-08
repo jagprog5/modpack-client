@@ -1,2 +1,2 @@
- * Tweaked some structures (fixes stability)
- * Fixed crash with interaction of Mo' Bends, WAASL, Twilight Forest
+ * Fixed aether (buggy mobs + incompatibility with ebwizardry)
+ * Misc structure changes: improved generation, new structures

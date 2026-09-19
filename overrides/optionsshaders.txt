@@ -1,2 +1,0 @@
-shaderPack=MakeUp-UltraFast-8.9b
-renderResMul=1.6666666

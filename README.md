@@ -9,22 +9,13 @@ It contains [these mods](./modlist.md), with a focus on simplicity and explorati
 2. Download the profile [here](https://github.com/jagprog5/modpack-client/releases/latest/download/profile.zip).
 3. Import the profile into CurseForge.
 
-# Recommended Game Settings
+# Optional Java Settings
 
-Game settings can be set in curseforge. It can prevent client side lag spikes:
+Cleanroom Relaunch is used by distant horizons. On first-time launch in the GUI
+consider setting:
 
-- Java 8
-- 4096MB memory
-- Use [Aikar's JVM flags](https://mcflags.emc.gs)
-
-# Shaders
-
-This can be skipped if you don't want shaders. OptiFine needs to be downloaded separately.
-
-1. Download OptiFine [here](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar).
-2. Move it into the profile [like shown](https://www.youtube.com/watch?v=WCfDJ7ZFB1c).
-
-MakeUp Ultra Fast shaders are already provided (and are enabled by default).
+- under "Advanced Settings"
+- in "Java Arguments" append "-XX:+UseShenandoahGC"
 
 # Server
 

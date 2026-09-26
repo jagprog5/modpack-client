@@ -7,19 +7,11 @@ It contains [these mods](./modlist.md), with a focus on simplicity and explorati
 
 1. Download CurseForge [here](https://www.curseforge.com/download/app).
 2. Download the profile [here](https://github.com/jagprog5/modpack-client/releases/latest/download/profile.zip).
-3. Import the profile into CurseForge.
-
-# Optional Java Settings
-
-Cleanroom Relaunch is used by distant horizons. On first-time launch in the GUI
-consider setting:
-
-- under "Advanced Settings"
-- in "Java Arguments" append "-XX:+UseShenandoahGC"
+3. Import the profile into CurseForge. Make sure to select the option "All Files" during import.
 
 # Server
 
-This modpack can be played on a server. The server code is [here](https://github.com/jagprog5/modpack-server). It's pretty stable.
+This modpack can be played on a server. The server code is [here](https://github.com/jagprog5/modpack-server).
 
 ### Updating
 

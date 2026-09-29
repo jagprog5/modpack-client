@@ -72,7 +72,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/placebo">Placebo (by Shadows_of_Fire)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/reach-fix">Reach Fix (by meldexun)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/recurrent-complex">Recurrent Complex (by Ivorius)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/recurrent-complex-volts">Recurrent Complex Volts (by Akiak)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/red-core">Red Core (by Desoroxxx)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/resource-loader">Resource Loader (by Lumien231)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/scalar-legacy">Scalar Legacy (by kappa_maintainer)</a></li>

@@ -12,10 +12,12 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O' Plenty (by Forstride)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork">Bubbles (by MetallicaFan011)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/camouflaged-creepers">Camouflaged Creepers (by georgetsak)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/carbon-config">Carbon Config (by Speiger)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/carry-on">Carry On (by Tschipp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chameleon">Chameleon (by Texelsaur)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chibi">Chibi (by Rongmario)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8">Chicken Chunks 1.8.+ (by covers1624)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator">Chunk-Pregenerator (by Speiger)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher">Cleanroom Relauncher (by CleanroomMC)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8">CodeChicken Lib 1.8.+ (by covers1624)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/comforts">Comforts (by TheIllusiveC4)</a></li>

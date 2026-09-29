@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-'''
+"""
 This converts a Minecraft Java Edition .nbt tile into a human readable json.
 It's a single python file that only uses the stdlib.
 
-It does some sparse encoding and decompression - whatever I though was best!
+It does some sparse encoding and decompression - whatever I thought was best!
 
 This was mostly AI generated, following this
 [repo](https://github.com/midnightfreddie/nbt2json). But reducing the scope and
@@ -17,20 +17,24 @@ is a feature that allows human readable diffs on binary files:
 .gitattributes *.nbt diff=nbt
 
 git config diff.nbt.textconv "python3 scripts/nbt_textconv.py"
-'''
-#!/usr/bin/env python3
+
+Object keys are sorted alphabetically throughout, so diffs are stable
+regardless of the order tags happen to appear in the source file.
+"""
+
 import argparse
 import gzip
 import io
 import json
 import math
 import struct
-import sys
 
 BYTE_ORDER = ">"  # Java Edition NBT is big-endian
 
+
 class NbtParseError(Exception):
     pass
+
 
 def read_struct(fmt, f):
     size = struct.calcsize(fmt)
@@ -39,6 +43,7 @@ def read_struct(fmt, f):
         raise NbtParseError(f"Unexpected end of data reading format {fmt}")
     return struct.unpack(fmt, data)[0]
 
+
 def read_string(f):
     length = read_struct(BYTE_ORDER + "h", f)
     data = f.read(length)
@@ -46,11 +51,14 @@ def read_string(f):
         raise NbtParseError(f"Unexpected end of data reading string of length {length}")
     return data.decode("utf-8", errors="replace")
 
+
 def value_to_json_number(n):
     return str(n)
 
+
 def value_to_json_string(s):
-    return json.dumps(s)
+    return json.dumps(s, sort_keys=True)
+
 
 def payload_to_jsonish(f, tag_type):
     if tag_type == 0:
@@ -92,8 +100,11 @@ def payload_to_jsonish(f, tag_type):
                 break
             name = read_string(f)
             val = payload_to_jsonish(f, next_type)
-            parts.append(f"{value_to_json_string(name)}:{val}")
-        return "{" + ",".join(parts) + "}"
+            parts.append((name, val))
+        # Normalize: sort compound entries by key so diffs are stable
+        # regardless of the order tags were written in the source file.
+        parts.sort(key=lambda kv: kv[0])
+        return "{" + ",".join(f"{value_to_json_string(name)}:{val}" for name, val in parts) + "}"
     elif tag_type == 11:  # int array
         length = read_struct(BYTE_ORDER + "i", f)
         raw = f.read(length * 4)
@@ -111,6 +122,7 @@ def payload_to_jsonish(f, tag_type):
     else:
         raise NbtParseError(f"TagType {tag_type} not recognized")
 
+
 def read_one_root_payload(buf):
     if buf.tell() >= len(buf.getbuffer()):
         return None
@@ -119,6 +131,7 @@ def read_one_root_payload(buf):
         return None
     _root_name = read_string(buf)
     return payload_to_jsonish(buf, tag_type)
+
 
 def nbt_to_jsonish(data_bytes):
     buf = io.BytesIO(data_bytes)
@@ -134,19 +147,24 @@ def nbt_to_jsonish(data_bytes):
         return payloads[0]
     return "[" + ",".join(payloads) + "]"
 
+
 def sparsify_metadata(obj):
     if isinstance(obj, dict):
-        return {k: sparsify_metadata(v) if k != "metadata" else _sparse_list(v)
-                for k, v in obj.items()}
+        return {
+            k: sparsify_metadata(v) if k != "metadata" else _sparse_list(v)
+            for k, v in obj.items()
+        }
     elif isinstance(obj, list):
         return [sparsify_metadata(v) for v in obj]
     else:
         return obj
 
+
 def _sparse_list(lst):
     if isinstance(lst, list):
         return {i: v for i, v in enumerate(lst) if v != 0}
     return lst
+
 
 def decompress_blocks(blocks_compressed):
     data_bytes = blocks_compressed["data_bytes"]
@@ -168,31 +186,40 @@ def decompress_blocks(blocks_compressed):
 
     return result
 
+
 def dump_json(obj, indent=2):
-    """Pretty-print JSON with inline metadata/blocks and nicely indented mapping."""
-    def _dump(v, level=0, key=None):
+    """Pretty-print JSON with inline metadata/blocks and nicely indented,
+    key-sorted mapping."""
+
+    def _dump(v, level=0):
         space = " " * (level * indent)
         if isinstance(v, dict):
             items = []
-            for k, val in v.items():
-                if k == "metadata":
-                    items.append(f'{space}  "metadata":{json.dumps(val, separators=(",", ":"))}')
-                elif k == "blocks":
-                    items.append(f'{space}  "blocks":{json.dumps(val, separators=(",", ":"))}')
+            for k in sorted(v.keys(), key=str):
+                val = v[k]
+                if k in ("metadata", "blocks"):
+                    items.append(
+                        f'{space}  {json.dumps(k)}:'
+                        f'{json.dumps(val, sort_keys=True, separators=(",", ":"))}'
+                    )
                 elif k == "mapping" and isinstance(val, list):
-                    items.append(f'{space}  "mapping": [\n' +
-                                 ",\n".join(f'{space}    {json.dumps(item)}' for item in val) +
-                                 f'\n{space}  ]')
+                    items.append(
+                        f'{space}  "mapping": [\n'
+                        + ",\n".join(f'{space}    {json.dumps(item, sort_keys=True)}' for item in val)
+                        + f'\n{space}  ]'
+                    )
                 else:
-                    items.append(f'{space}  {json.dumps(k)}: {_dump(val, level+1)}')
+                    items.append(f'{space}  {json.dumps(k)}: {_dump(val, level + 1)}')
             return "{\n" + ",\n".join(items) + f"\n{space}}}"
         elif isinstance(v, list):
             if not v:
                 return "[]"
-            # Normal array: each element indented
-            return "[\n" + ",\n".join(f"{space}  {_dump(i, level+1)}" for i in v) + f"\n{space}]"
+            # Normal array: each element indented, order preserved (arrays
+            # are positional, so they are not sorted).
+            return "[\n" + ",\n".join(f"{space}  {_dump(i, level + 1)}" for i in v) + f"\n{space}]"
         else:
-            return json.dumps(v)
+            return json.dumps(v, sort_keys=True)
+
     print(_dump(obj))
 
 
@@ -221,6 +248,7 @@ def main():
 
     # Dump JSON with custom formatting
     dump_json(parsed_json, indent=2)
+
 
 if __name__ == "__main__":
     main()

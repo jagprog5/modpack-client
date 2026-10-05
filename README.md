@@ -18,10 +18,6 @@ This modpack can be played on a server. The server code is [here](https://github
 Do not update the mods, as this will lead to incompatible mod versions with the
 server. This repo may be updated and if it is then the server mods will be kept in sync.
 
-## Troubleshooting
-
-If the game starts with a blank screen then delete `options.txt` and restart; this issues was seen on a MacBook.
-
 # Development
 
 For better diff viewing:

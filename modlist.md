@@ -54,6 +54,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/let-me-despawn">Let Me Despawn (by frikinjay)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/libraryex">LibraryEx (by LogicTechCorp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/llibrary">LLibrary (by MCModDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/midnight-rifting-machine">Midnight Rifting Machine (by ExistingEevee)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mixin-booter">MixinBooter (by CleanroomMC)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mo-bends">Mo' Bends (by IVESIRIS)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mo-spells">Mo' Spells (Electroblob's Wizardry) (by windanesz)</a></li>
@@ -81,6 +82,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/strawgolem-extended-life">Straw Golem Unofficial Extended Life (by EnderDevelopment)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/stygian-end-biome-expansion">Stygian End: Biome Expansion (by super_fluke)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-disenchanter-mod">Disenchanter (The Disenchanter Mod) (by impelon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/the-midnight">The Midnight (by f1ashfyre)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tool-belt">Tool Belt (by gigaherz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod">Torch Slabs Mod (by EndlesNights)</a></li>
@@ -96,6 +98,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero's Minimap (by xaero96)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map (by xaero96)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xp-orb-clump">Fixeroo (by MetallicaFan011)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge">YUNG's Better Mineshafts (Forge/NeoForge) (by YUNGNICKYOUNG)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode">Default Dark Mode (by nebulr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/lum-backport">Lum (Backport) (by fonnymunkey)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack">No More Pumpkin Blur (by Mystery2099)</a></li>

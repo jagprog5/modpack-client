@@ -1,1 +1,2 @@
- * Upgrade to fork of recurrent complex
+ * New structures
+ * Added the midnight dimension

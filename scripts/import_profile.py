@@ -27,7 +27,7 @@ parser = argparse.ArgumentParser(
         "  - structures/\n"
         "* Each config file in overrides/config/ is only imported if it already exist "
         "in this repo or matchs --new-override-cfg."
-    ), formatter_class=argparse .RawTextHelpFormatter
+    ), formatter_class=argparse.RawTextHelpFormatter
 )
 parser.add_argument('profile_path', help='The path to the input file.')
 parser.add_argument('--new-override-cfg', type=str, default='',
@@ -141,7 +141,16 @@ with zipfile.ZipFile(args.profile_path, 'r') as zip_ref:
                     try:
                         text_data = raw_data.decode('utf-8')
                         text_data = text_data.replace('\r\n', '\n').replace('\r', '\n')
-                        with open(target_path, 'w', encoding='utf-8', newline='\n') as target:
+
+                        # For TOML files, remove trailing whitespace from comments.
+                        # This handles both standalone comments and inline comments.
+                        if target_path.lower().endswith('.toml'):
+                            text_data = '\n'.join(
+                                re.sub(r'#(.*?)[ \t]*$', lambda m: '#' + m.group(1).rstrip(), line)
+                                for line in text_data.split('\n')
+                            )
+
+                        with open(target_path,'w',encoding='utf-8',newline='\n') as target:
                             target.write(text_data)
                     except UnicodeDecodeError:
                         with open(target_path, 'wb') as target:

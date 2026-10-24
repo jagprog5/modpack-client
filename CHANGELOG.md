@@ -1,2 +1,1 @@
- * New structures
- * Added the midnight dimension
+ * Update cleanroom relauncher

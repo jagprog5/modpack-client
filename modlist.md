@@ -17,7 +17,6 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chameleon">Chameleon (by Texelsaur)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chibi">Chibi (by Rongmario)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8">Chicken Chunks 1.8.+ (by covers1624)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator">Chunk-Pregenerator (by Speiger)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher">Cleanroom Relauncher (by CleanroomMC)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8">CodeChicken Lib 1.8.+ (by covers1624)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/comforts">Comforts (by TheIllusiveC4)</a></li>
@@ -28,6 +27,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/crafttweaker">CraftTweaker (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ctm">ConnectedTexturesMod (by tterrag1098)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/custom-main-menu">Custom Main Menu (by Lumien231)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/custom-starter-gear">Custom Starter Gear (by brandon3055)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/custom-window-title">Custom Window Title (by chylex)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/distant-horizons">Distant Horizons: A Level of Detail mod (by James_Seibel)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dtbop">Dynamic Trees - Biomes O' Plenty (by cadaverous_queen)</a></li>
@@ -51,6 +51,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ivtoolkit">IvToolkit (by Ivorius)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/kleeslabs">KleeSlabs (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/lemonskin">LemonSkin (AppleSkin Fork) (by myxazaur)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lesser-ring-of-luminosity">Lesser Ring of Luminosity (by jagprog5)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/let-me-despawn">Let Me Despawn (by frikinjay)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/libraryex">LibraryEx (by LogicTechCorp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/llibrary">LLibrary (by MCModDev)</a></li>

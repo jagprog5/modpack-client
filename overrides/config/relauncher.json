@@ -5,7 +5,7 @@
   "autoSetup": true,
   "enableRelauncher": true,
   "fetchUpdates": false,
-  "clearCleanroomFolder": false,
-  "clearJavaProvisionFolder": false,
+  "clearCleanroomFolder": true,
+  "clearJavaProvisionFolder": true,
   "darkMode": true
 }

@@ -1,0 +1,12 @@
+{
+  "inventory": {
+    "0:18": "minecraft:dirt,3,0,{display:{Name:\"dirt in crafting table VERTICAL\"},RepairCost:0}",
+    "0:9": "waystones:waystone,6",
+    "0:27": "waystones:warp_scroll,1,0,{display:{Name:\"RIGHT CLICK 10SEC -> TP TO WAYSTONE\"},RepairCost:0}",
+    "0:35": "minecraft:potion,1,0,{CustomPotionEffects:[{ShowParticles:0b,Duration:2147483647,Id:24b,Amplifier:0b}],display:{Name:\"Potion of Eternal Glow\"}}",
+    "0:26": "minecraft:dirt,3,0,{display:{Name:\"dirt in crafting table HORIZONTAL\"},RepairCost:0}",
+    "0:17": "mmbaubleslesserluminosity:lesser_luminous_ring,1,0,{display:{Name:\"wear me! inventory click ring icon\"},RepairCost:0}",
+    "0:22": "improvedbackpacks:backpack,1,0,{Tier:5,Items:[],UUIDMost:3367369489618388589L,UUIDLeast:-8259443062661220114L}",
+    "0:4": "minecraft:potion,1,0,{display:{Name:\"go punch a tree\"},Potion:\"quark:long_haste\",RepairCost:0}"
+  }
+}

@@ -1,1 +1,1 @@
- * sync with upstream bugfix
+ * chunk pregenerator -> prioritize speed

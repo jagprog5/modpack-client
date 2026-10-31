@@ -17,6 +17,7 @@
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chameleon">Chameleon (by Texelsaur)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chibi">Chibi (by Rongmario)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8">Chicken Chunks 1.8.+ (by covers1624)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator">Chunk-Pregenerator (by Speiger)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher">Cleanroom Relauncher (by CleanroomMC)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8">CodeChicken Lib 1.8.+ (by covers1624)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/comforts">Comforts (by TheIllusiveC4)</a></li>
